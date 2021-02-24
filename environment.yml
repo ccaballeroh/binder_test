@@ -2,13 +2,7 @@ name: mcpr2021
 channels:
   - defaults
 dependencies:
-  - spacy
-  - nb_conda_kernels
-  - scikit-learn
-  - beautifulsoup4
-  - nltk
-  - pandas
-  - mypy
-  - black
-  - rope
-  - seaborn
+  - spacy=2.2.2
+  - scikit-learn=0.21.3
+  - pandas=0.25.3
+  - seaborn=0.11.1
