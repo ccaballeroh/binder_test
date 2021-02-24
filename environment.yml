@@ -2,6 +2,7 @@ name: mcpr2021
 channels:
   - defaults
 dependencies:
+  - python=3.6.7
   - spacy=2.2.2
   - scikit-learn=0.21.3
   - pandas=0.25.3
